@@ -13,3 +13,9 @@ wheels/
 .vscode/
 .idea/
 .github/copilot-instructions.md
+
+# Claude
+.claude/
+
+# Environment variables
+.env

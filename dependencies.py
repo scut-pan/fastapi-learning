@@ -1,4 +1,5 @@
-from fastapi import FastAPI, Query, Depends # 2、导入 Depends
+# 2、导入 Depends
+from fastapi import FastAPI, Query, Depends 
 
 app = FastAPI()
 
